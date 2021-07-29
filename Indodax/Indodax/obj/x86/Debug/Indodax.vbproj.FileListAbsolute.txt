@@ -1,0 +1,26 @@
+D:\Project VB Net\Indodax\Indodax\bin\Debug\Indodax.exe
+D:\Project VB Net\Indodax\Indodax\bin\Debug\Indodax.pdb
+D:\Project VB Net\Indodax\Indodax\bin\Debug\Indodax.xml
+D:\Project VB Net\Indodax\Indodax\obj\x86\Debug\Indodax.Menu.resources
+D:\Project VB Net\Indodax\Indodax\obj\x86\Debug\Indodax.Resources.resources
+D:\Project VB Net\Indodax\Indodax\obj\x86\Debug\Indodax.exe
+D:\Project VB Net\Indodax\Indodax\obj\x86\Debug\Indodax.xml
+D:\Project VB Net\Indodax\Indodax\obj\x86\Debug\Indodax.pdb
+D:\Project VB Net\Indodax\Indodax\bin\Debug\Newtonsoft.Json.dll
+D:\Project VB Net\Indodax\Indodax\bin\Debug\Newtonsoft.Json.pdb
+D:\Project VB Net\Indodax\Indodax\bin\Debug\Newtonsoft.Json.xml
+D:\Project VB Net\Indodax\Indodax\obj\x86\Debug\Indodax.vbprojResolveAssemblyReference.cache
+D:\Project VB Net\Indodax\Indodax\obj\x86\Debug\Indodax.vbproj.GenerateResource.Cache
+D:\Project VB Net\Indodax - Free\Indodax\obj\x86\Debug\Indodax.exe
+D:\Project VB Net\Indodax - Free\Indodax\obj\x86\Debug\Indodax.xml
+D:\Project VB Net\Indodax - Free\Indodax\obj\x86\Debug\Indodax.pdb
+D:\Project VB Net\Indodax - Free\Indodax\obj\x86\Debug\Indodax.vbprojResolveAssemblyReference.cache
+D:\Project VB Net\Indodax - Free\Indodax\obj\x86\Debug\Indodax.Menu.resources
+D:\Project VB Net\Indodax - Free\Indodax\obj\x86\Debug\Indodax.Resources.resources
+D:\Project VB Net\Indodax - Free\Indodax\obj\x86\Debug\Indodax.vbproj.GenerateResource.Cache
+D:\Project VB Net\Indodax - Free\Indodax\bin\Debug\Indodax.exe
+D:\Project VB Net\Indodax - Free\Indodax\bin\Debug\Indodax.pdb
+D:\Project VB Net\Indodax - Free\Indodax\bin\Debug\Indodax.xml
+D:\Project VB Net\Indodax - Free\Indodax\bin\Debug\Newtonsoft.Json.dll
+D:\Project VB Net\Indodax - Free\Indodax\bin\Debug\Newtonsoft.Json.pdb
+D:\Project VB Net\Indodax - Free\Indodax\bin\Debug\Newtonsoft.Json.xml

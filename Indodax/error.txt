@@ -1,0 +1,26 @@
+Mengatasi Error  The request was aborted: Could not create SSL/TLS 
+
+Menambahkan kode
+
+ServicePointManager.SecurityProtocol = DirectCast(3072, System.Net.SecurityProtocolType)
+atau
+ServicePointManager.SecurityProtocol = DirectCast(3072, SecurityProtocolType)
+
+
+
+
+https://domainsoftwares.com/2020/06/01/how-to-fix-the-requested-security-protocol-is-not-supported/
+
+The requested security protocol is not supported.
+
+Langkah 1 = Gagal
+Seting di internet explore
+hilangkan use tls atau ssl
+
+Langkah 2 = gagal
+https://www.youtube.com/watch?v=LK7-YNpxEhA
+
+langkah3 = https://support.microsoft.com/id-id/topic/pembaruan-untuk-mengaktifkan-tls-1-1-dan-tls-1-2-sebagai-default-protokol-aman-dalam-winhttp-di-windows-c4bd73d2-31d7-761e-0178-11268bb10392
+
+
+Instal Framework 4.6.1 langsung sukses
