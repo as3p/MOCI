@@ -1,0 +1,26 @@
+D:\Project VB Net\Desain\DesainMoci\bin\Debug\DesainMoci.exe
+D:\Project VB Net\Desain\DesainMoci\bin\Debug\DesainMoci.pdb
+D:\Project VB Net\Desain\DesainMoci\bin\Debug\DesainMoci.xml
+D:\Project VB Net\Desain\DesainMoci\obj\x86\Debug\DesainMoci.Resources.resources
+D:\Project VB Net\Desain\DesainMoci\obj\x86\Debug\DesainMoci.exe
+D:\Project VB Net\Desain\DesainMoci\obj\x86\Debug\DesainMoci.xml
+D:\Project VB Net\Desain\DesainMoci\obj\x86\Debug\DesainMoci.pdb
+D:\Project VB Net\Desain\DesainMoci\obj\x86\Debug\DesainMoci.Login.resources
+D:\Project VB Net\Desain\DesainMoci\obj\x86\Debug\DesainMoci.Secret.resources
+D:\Project VB Net\Desain\DesainMoci\obj\x86\Debug\DesainMoci.Kalkulator.resources
+D:\Project VB Net\Desain\DesainMoci\obj\x86\Debug\DesainMoci.Utama.resources
+D:\Project VB Net\Desain\DesainMoci\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project VB Net\Desain\DesainMoci\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project VB Net\Desain\DesainMoci\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Source\Project VB Net\Desain Moci\Desain\DesainMoci\obj\x86\Debug\DesainMoci.xml
+D:\Source\Project VB Net\Desain Moci\Desain\DesainMoci\obj\x86\Debug\DesainMoci.pdb
+D:\Source\Project VB Net\Desain Moci\Desain\DesainMoci\bin\Debug\DesainMoci.exe
+D:\Source\Project VB Net\Desain Moci\Desain\DesainMoci\bin\Debug\DesainMoci.pdb
+D:\Source\Project VB Net\Desain Moci\Desain\DesainMoci\bin\Debug\DesainMoci.xml
+D:\Source\Project VB Net\Desain Moci\Desain\DesainMoci\obj\x86\Debug\DesainMoci.Kalkulator.resources
+D:\Source\Project VB Net\Desain Moci\Desain\DesainMoci\obj\x86\Debug\DesainMoci.Login.resources
+D:\Source\Project VB Net\Desain Moci\Desain\DesainMoci\obj\x86\Debug\DesainMoci.Resources.resources
+D:\Source\Project VB Net\Desain Moci\Desain\DesainMoci\obj\x86\Debug\DesainMoci.Secret.resources
+D:\Source\Project VB Net\Desain Moci\Desain\DesainMoci\obj\x86\Debug\DesainMoci.Utama.resources
+D:\Source\Project VB Net\Desain Moci\Desain\DesainMoci\obj\x86\Debug\DesainMoci.vbproj.GenerateResource.Cache
+D:\Source\Project VB Net\Desain Moci\Desain\DesainMoci\obj\x86\Debug\DesainMoci.exe
